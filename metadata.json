@@ -1,0 +1,7 @@
+{
+  "name": "Casting Fence IQ",
+  "description": "A professional, dark-themed IoT command center for monitoring fence status, environmental sensors, and security alerts.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
